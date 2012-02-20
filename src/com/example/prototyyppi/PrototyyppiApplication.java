@@ -12,4 +12,11 @@ public class PrototyyppiApplication extends Application {
 		setMainWindow(mainWindow);
 	}
 
+
+	final Button nappi = new Button("LOOOLLLOOL");
+	
+
+
+
+
 }
